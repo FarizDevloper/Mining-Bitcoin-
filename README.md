@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="bitcoin_btc_logo_62c59b827e" width="300">
+  <img src="![well](https://github.com/user-attachments/assets/8934b167-e1a8-449e-a4f3-84c49d2a8c6f)" width="300">
 </p>
 
 <h1 align="center">💰 Bitcoin Mining Simulator + Solana Wallet Tracker</h1>
@@ -17,6 +17,6 @@
   <img src="https://img.shields.io/badge/License-MIT-lightgrey">
 </p>
 
----![well](https://github.com/user-attachments/assets/8934b167-e1a8-449e-a4f3-84c49d2a8c6f)
+---
 
 
