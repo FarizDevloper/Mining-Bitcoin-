@@ -1,5 +1,6 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c69411e1-2df9-4d94-be2d-ed5590c26fd8" width="300">
+<p align="center">!
+
+  <img src="bitcoin_btc_logo_62c59b827e](https://github.com/user-attachments/assets/f2724deb-4bfe-4c0b-99be-87e4e2a30488" width="300">
 </p>
 
 <h1 align="center">💰 Bitcoin Mining Simulator + Solana Wallet Tracker</h1>
