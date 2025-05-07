@@ -1,4 +1,4 @@
-<p align="center">!
+<p align="center">
 
   <img src="bitcoin_btc_logo_62c59b827e](https://github.com/user-attachments/assets/f2724deb-4bfe-4c0b-99be-87e4e2a30488" width="300">
 </p>
