@@ -1,6 +1,7 @@
 <p align="center">
 
-![OsSLGan9FtQWFG](https://github.com/user-attachments/assets/75d68a64-544c-4c17-8248-ded1be4dc1da) 
+![welllll](https://github.com/user-attachments/assets/7eef222d-045a-4d88-a111-1804e441d1b8)
+           
 </p>
 
 <h1 align="center">💰 Bitcoin Mining Simulator + Solana Wallet Tracker</h1>
