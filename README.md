@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src= ![OsSLGan9FtQWFG](https://github.com/user-attachments/assets/75d68a64-544c-4c17-8248-ded1be4dc1da) width="300">
+![OsSLGan9FtQWFG](https://github.com/user-attachments/assets/75d68a64-544c-4c17-8248-ded1be4dc1da) 
 </p>
 
 <h1 align="center">💰 Bitcoin Mining Simulator + Solana Wallet Tracker</h1>
