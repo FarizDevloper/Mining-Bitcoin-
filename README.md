@@ -1,9 +1,10 @@
 <p align="center">
 
-  <img src="wellhttps://github.com/user-attachments/assets/8934b167-e1a8-449e-a4f3-84c49d2a8c6f" width="300">
+  <img src="![OsSLGan9FtQWFG](https://github.com/user-attachments/assets/75d68a64-544c-4c17-8248-ded1be4dc1da)" width="300">
 </p>
 
 <h1 align="center">💰 Bitcoin Mining Simulator + Solana Wallet Tracker</h1>
+
 
 <p align="center">
   <b>Simulasi mining Bitcoin berbasis Python dengan tampilan visual dan cek saldo dompet Solana secara real-time!</b><br>
