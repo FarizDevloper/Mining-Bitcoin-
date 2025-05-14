@@ -20,4 +20,31 @@
 
 ---
 
+## 🚀 Fitur Utama
+
+- 🔐 Simulasi proses *Bitcoin mining* menggunakan SHA-256 dan *nonce cracking*
+- 🔄 Cek saldo dompet Solana secara langsung menggunakan [Solscan API](https://public-api.solscan.io)
+- 🌈 Tampilan CLI berwarna dengan `rich` dan `colorama`
+- 🔁 Loop otomatis dengan jeda antar blok
+- 💡 Cocok untuk edukasi, demo proyek, dan visualisasi kriptografi dasar
+
+---
+
+## 🧠 Cara Kerja
+
+Skrip ini melakukan:
+1. Simulasi mining dengan mencari hash SHA-256 yang diawali dengan `0000`
+2. Menampilkan hash valid jika ditemukan (seolah berhasil menambang satu blok)
+3. Mengakses Solscan API untuk mengambil saldo dompet Solana
+4. Menampilkan saldo di terminal secara interaktif
+
+---
+
+## 🛠️ Instalasi
+
+```bash
+git clone https://github.com/yourusername/bitcoin-sim-solana-checker
+cd bitcoin-sim-solana-checker
+pip install -r requirements.txt
+python miner.py
 
