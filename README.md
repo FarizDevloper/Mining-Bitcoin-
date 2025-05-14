@@ -38,13 +38,40 @@ Skrip ini melakukan:
 3. Mengakses Solscan API untuk mengambil saldo dompet Solana
 4. Menampilkan saldo di terminal secara interaktif
 
+
+-----
+## 🌟 Support This Project 🌟
+
+If you find this project helpful and would like to support its ongoing development, you can make a donation! 💖 Your contribution will help us continue improving the project, add new features, and maintain its functionality for all users. Every little bit counts, and your support is deeply appreciated! 🙏
+
+### How to Contribute 💸
+
+You can donate through the following platforms:
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_LINK)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/YOUR_USERNAME)
+[![Ko-Fi](https://img.shields.io/badge/Donate-Ko--Fi-blue?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/YOUR_USERNAME)
+
+Every donation, big or small, helps us continue to work on this project and bring it to the next level. 🚀 Thank you for your support! 💖
+
 ---
 
-## 🛠️ Instalasi
+### Thank You to Our Amazing Donors 🌟
 
-```bash
-git clone https://github.com/yourusername/bitcoin-sim-solana-checker
-cd bitcoin-sim-solana-checker
-pip install -r requirements.txt
-python miner.py
+We appreciate everyone who supports this project in any way. Your generosity makes all the difference. Thank you for being a part of our community! 💪
+
+If you want to contribute in other ways (like coding, bug fixes, or feature suggestions), feel free to check out our [Contributing Guide](CONTRIBUTING.md). 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
 
